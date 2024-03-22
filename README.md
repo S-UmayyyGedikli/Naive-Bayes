@@ -1,4 +1,4 @@
-# Diabetes Veri Seti İçin Naive Bayes Modelleme ve Ön İşleme
+# Diabetes Veri Seti İçin Naive Bayes Modelleme 
 
 ## Giriş
 
